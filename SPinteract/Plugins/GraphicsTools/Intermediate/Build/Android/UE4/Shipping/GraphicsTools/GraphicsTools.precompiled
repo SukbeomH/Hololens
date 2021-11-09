@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"Module.GraphicsTools.cppa7.o",
+		"Module.GraphicsTools.cppa8.o",
+		"Module.GraphicsTools.gen.cppa7.o",
+		"Module.GraphicsTools.gen.cppa8.o"
+	]
+}

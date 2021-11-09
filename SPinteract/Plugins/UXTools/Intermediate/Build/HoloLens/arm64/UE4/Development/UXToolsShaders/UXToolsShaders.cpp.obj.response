@@ -1,0 +1,58 @@
+/Zc:inline
+/nologo
+/Oi
+/Zp8
+/Gy
+/fp:fast
+/c
+/Zm900
+/bigobj
+/wd4819
+/D_CRT_STDIO_LEGACY_WIDE_SPECIFIERS=1
+/wd4702
+/wd4467
+/D_SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS
+/Ox
+/Zo
+/Ot
+/Ob2
+/errorReport:prompt
+/EHsc
+/Z7
+/MD
+ /AI"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x86\Store\references"
+ /FU"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x86\Store\references\platform.winmd"
+/I .
+/I "C:\Users\MEDICIB0918\Documents\Unreal Projects\HololensTuto\Plugins\UXTools\Source\UXToolsShaders\Private"
+/I Runtime
+/I Runtime\Projects\Public
+/I Runtime\TraceLog\Public
+/I Runtime\Core\Public\HoloLens
+/I Runtime\Core\Public
+/I Runtime\Json\Public
+/I Runtime\RenderCore\Public
+/I Runtime\RHI\Public
+/I "C:\Users\MEDICIB0918\Documents\Unreal Projects\HololensTuto\Plugins\UXTools\Source"
+/I "C:\Users\MEDICIB0918\Documents\Unreal Projects\HololensTuto\Plugins\UXTools\Source\UXToolsShaders\Public"
+/I "C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\winrt"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
+/FI"C:\Users\MEDICIB0918\Documents\Unreal Projects\HololensTuto\Intermediate\Build\HoloLens\arm64\HololensTuto\Development\Core\SharedPCH.Core.ShadowErrors.h"
+/Yu"C:\Users\MEDICIB0918\Documents\Unreal Projects\HololensTuto\Intermediate\Build\HoloLens\arm64\HololensTuto\Development\Core\SharedPCH.Core.ShadowErrors.h"
+/Fp"C:\Users\MEDICIB0918\Documents\Unreal Projects\HololensTuto\Intermediate\Build\HoloLens\arm64\HololensTuto\Development\Core\SharedPCH.Core.ShadowErrors.h.pch"
+ "C:\Users\MEDICIB0918\Documents\Unreal Projects\HololensTuto\Plugins\UXTools\Source\UXToolsShaders\Private\UXToolsShaders.cpp"
+ /FI"C:\Users\MEDICIB0918\Documents\Unreal Projects\HololensTuto\Plugins\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Development\UXToolsShaders\Definitions.UXToolsShaders.h"
+ /Fo"C:\Users\MEDICIB0918\Documents\Unreal Projects\HololensTuto\Plugins\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Development\UXToolsShaders\UXToolsShaders.cpp.obj"
+/ZW
+/ZW:nostdlib
+/TP
+/GR-
+/W3
+ /FU"C:\Program Files (x86)\Windows Kits\10\References\10.0.18362.0\Windows.Foundation.FoundationContract\3.0.0.0\Windows.Foundation.FoundationContract.winmd" /FU"C:\Program Files (x86)\Windows Kits\10\References\10.0.18362.0\Windows.Foundation.UniversalApiContract\8.0.0.0\Windows.Foundation.UniversalApiContract.winmd"

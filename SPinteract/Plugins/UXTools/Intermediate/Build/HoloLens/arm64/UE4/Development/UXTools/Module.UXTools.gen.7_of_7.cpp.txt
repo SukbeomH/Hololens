@@ -1,0 +1,37 @@
+C:\Users\MEDICIB0918\Documents\Unreal Projects\HololensTuto\Plugins\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Development\UXTools\Definitions.UXTools.h
+C:/Users/MEDICIB0918/Documents/Unreal Projects/HololensTuto/Plugins/UXTools/Intermediate/Build/HoloLens/arm64/UE4/Inc/UXTools/UxtTouchableVolumeComponent.gen.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\MEDICIB0918\Documents\Unreal Projects\HololensTuto\Plugins\UXTools\Source\UXTools/Public/Controls/UxtTouchableVolumeComponent.h
+C:\Users\MEDICIB0918\Documents\Unreal Projects\HololensTuto\Plugins\UXTools\Source\UXTools\Public\Controls/UxtUIElementComponent.h
+C:\Users\MEDICIB0918\Documents\Unreal Projects\HololensTuto\Plugins\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtUIElementComponent.generated.h
+C:\Users\MEDICIB0918\Documents\Unreal Projects\HololensTuto\Plugins\UXTools\Source\UXTools\Public\Interactions/UxtFarHandler.h
+C:\Users\MEDICIB0918\Documents\Unreal Projects\HololensTuto\Plugins\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtFarHandler.generated.h
+C:\Users\MEDICIB0918\Documents\Unreal Projects\HololensTuto\Plugins\UXTools\Source\UXTools\Public\Interactions/UxtFarTarget.h
+C:\Users\MEDICIB0918\Documents\Unreal Projects\HololensTuto\Plugins\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtFarTarget.generated.h
+C:\Users\MEDICIB0918\Documents\Unreal Projects\HololensTuto\Plugins\UXTools\Source\UXTools\Public\Interactions/UxtInteractionMode.h
+C:\Users\MEDICIB0918\Documents\Unreal Projects\HololensTuto\Plugins\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtInteractionMode.generated.h
+C:\Users\MEDICIB0918\Documents\Unreal Projects\HololensTuto\Plugins\UXTools\Source\UXTools\Public\Interactions/UxtPokeHandler.h
+C:\Users\MEDICIB0918\Documents\Unreal Projects\HololensTuto\Plugins\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtPokeHandler.generated.h
+C:\Users\MEDICIB0918\Documents\Unreal Projects\HololensTuto\Plugins\UXTools\Source\UXTools\Public\Interactions/UxtPokeTarget.h
+C:\Users\MEDICIB0918\Documents\Unreal Projects\HololensTuto\Plugins\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtPokeTarget.generated.h
+C:\Users\MEDICIB0918\Documents\Unreal Projects\HololensTuto\Plugins\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtTouchableVolumeComponent.generated.h
+C:/Users/MEDICIB0918/Documents/Unreal Projects/HololensTuto/Plugins/UXTools/Intermediate/Build/HoloLens/arm64/UE4/Inc/UXTools/UxtTouchBasedHandTrackerComponent.gen.cpp
+C:\Users\MEDICIB0918\Documents\Unreal Projects\HololensTuto\Plugins\UXTools\Source\UXTools/Private/HandTracking/UxtTouchBasedHandTrackerComponent.h
+C:\Users\MEDICIB0918\Documents\Unreal Projects\HololensTuto\Plugins\UXTools\Source\UXTools\Public\HandTracking/IUxtHandTracker.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\HeadMountedDisplay\Public\IMotionController.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\HoloLens\arm64\UE4\Inc\HeadMountedDisplay\HeadMountedDisplayTypes.generated.h
+C:\Users\MEDICIB0918\Documents\Unreal Projects\HololensTuto\Plugins\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtTouchBasedHandTrackerComponent.generated.h
+C:/Users/MEDICIB0918/Documents/Unreal Projects/HololensTuto/Plugins/UXTools/Intermediate/Build/HoloLens/arm64/UE4/Inc/UXTools/UxtTouchBasedHandTrackerSubsystem.gen.cpp
+C:\Users\MEDICIB0918\Documents\Unreal Projects\HololensTuto\Plugins\UXTools\Source\UXTools/Private/HandTracking/UxtTouchBasedHandTrackerSubsystem.h
+C:\Users\MEDICIB0918\Documents\Unreal Projects\HololensTuto\Plugins\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtTouchBasedHandTrackerSubsystem.generated.h
+C:/Users/MEDICIB0918/Documents/Unreal Projects/HololensTuto/Plugins/UXTools/Intermediate/Build/HoloLens/arm64/UE4/Inc/UXTools/UxtTransformConstraint.gen.cpp
+C:\Users\MEDICIB0918\Documents\Unreal Projects\HololensTuto\Plugins\UXTools\Source\UXTools/Public/Interactions/Constraints/UxtTransformConstraint.h
+C:\Users\MEDICIB0918\Documents\Unreal Projects\HololensTuto\Plugins\UXTools\Source\UXTools\Public\Interactions/UxtManipulationFlags.h
+C:\Users\MEDICIB0918\Documents\Unreal Projects\HololensTuto\Plugins\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtManipulationFlags.generated.h
+C:\Users\MEDICIB0918\Documents\Unreal Projects\HololensTuto\Plugins\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtTransformConstraint.generated.h
+C:/Users/MEDICIB0918/Documents/Unreal Projects/HololensTuto/Plugins/UXTools/Intermediate/Build/HoloLens/arm64/UE4/Inc/UXTools/UxtUIElementComponent.gen.cpp
+C:/Users/MEDICIB0918/Documents/Unreal Projects/HololensTuto/Plugins/UXTools/Intermediate/Build/HoloLens/arm64/UE4/Inc/UXTools/UxtWidgetComponent.gen.cpp
+C:\Users\MEDICIB0918\Documents\Unreal Projects\HololensTuto\Plugins\UXTools\Source\UXTools/Public/Controls/UxtWidgetComponent.h
+C:\Users\MEDICIB0918\Documents\Unreal Projects\HololensTuto\Plugins\UXTools\Intermediate\Build\HoloLens\arm64\UE4\Inc\UXTools\UxtWidgetComponent.generated.h
